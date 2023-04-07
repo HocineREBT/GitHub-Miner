@@ -1,0 +1,33 @@
+{
+  "name": "GitHub-Miner",
+  "version": "1.0.0",
+  "description": "This component allows to mine and collect pull request-related issues using the GitHub Search API.",
+  "main": "IssuesCollector.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anonymous/GitHub-Miner"
+  },
+  "keywords": [
+    "GitHub",
+    "Mine",
+    "Data Mining",
+    "Pull Request",
+    "Dataset",
+    "Collection"
+  ],
+  "author": "Anonymous",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anonymous/GitHub-Miner/issues"
+  },
+  "homepage": "https://github.com/Anonymous/GitHub-Miner#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "axios": "^1.2.2",
+    "moment": "^2.29.4",
+    "csv-write-stream": "^2.0.0"
+  }
+}
