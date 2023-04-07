@@ -70,3 +70,19 @@ This method allows to read the collected dataset and provide a summary of the mo
 - `filter_bots` : A boolean to determine whether to filter out *Bot* users or not.
 
 > Execution time : proportionate to the size of the dataset and relative to the IO operations.
+
+### 8. Extract Users
+This method allows to extract the list of users who created the PRs in the dataset.
+- `src_folder` : The source path to the folder containing the dataset.
+- `destination_folder` : The destination path to the folder containing the results.
+- `filter_bots` : A boolean to determine whether to filter out *Bot* users or not.
+
+> Execution time : proportionate to the size of the dataset and relative to the IO operations.
+
+### 9. Extract Pulls
+This method allows to extract pull request identifier : as ['Repository Owner', 'Repository Name', 'Pull Request Number'].
+- `src_folder` : The source path to the folder containing the dataset.
+- `destination_folder` : The destination path to the folder containing the results.
+- `filter_bots` : A boolean to determine whether to filter out *Bot* users or not.
+
+> Execution time : proportionate to the size of the dataset and relative to the IO operations.
