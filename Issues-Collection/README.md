@@ -1,5 +1,6 @@
 ## Issues Collection Pipeline
 The pipeline should be run as follows :
+
 ![alt text](https://github.com/HocineREBT/GitHub-Miner/blob/main/Issues-Collection/Pipeline-Process/Issues-Collection-Process.png?raw=true)
 
 ## Documentation
