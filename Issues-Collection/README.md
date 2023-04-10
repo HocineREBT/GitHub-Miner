@@ -1,7 +1,7 @@
 ## Issues Collection Pipeline
 The pipeline should be run as follows :
 
-![Issues Collection Pipeline](Pipeline-Process/Issues-Collection-Process.png?raw=true)
+![Issues Collection Pipeline](Issues-Collection-Process.png?raw=true)
 
 ## Documentation
 We describe the function and the parameters for each method :
