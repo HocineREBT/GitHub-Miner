@@ -10,5 +10,5 @@ The execution of the GitHub-Miner pipeline should go through the following steps
 
 
 ## Example
-- An example for the **Issues Collection** process execution as well as the resulting data is provided [Here](https://github.com/HocineREBT/GitHub-Miner/blob/main/Issues-Collection/Example/)
-- Also, an example for the **Data Extraction** process execution and the resulting data is provided [Here](https://github.com/HocineREBT/GitHub-Miner/blob/main/Data-Extraction/Example/)
+- An example for the **Issues Collection** process execution as well as the resulting data is provided [Here](Issues-Collection/Example/)
+- Also, an example for the **Data Extraction** process execution and the resulting data is provided [Here](Data-Extraction/Example/)
