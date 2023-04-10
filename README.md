@@ -6,7 +6,7 @@ The pipeline allows to mine and collect pull request-related issues using the Gi
 ## Execution
 The execution of the GitHub-Miner pipeline should go through the following steps:
 
-![GitHub-Miner pipeline](https://github.com/HocineREBT/GitHub-Miner/blob/main/GitHub-Miner-Process.png?raw=true)
+![GitHub-Miner pipeline](GitHub-Miner-Process.png?raw=true)
 
 
 ## Example
