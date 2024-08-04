@@ -4,7 +4,8 @@ The pipeline allows to mine and collect pull request-related issues using the Gi
 
 ## Citation
 This pipeline is the work of the Empirical Software Engineering journal paper "_Dependabot and security pull requests: large empirical study_":
-Rebatchi, Hocine, Tégawendé F. Bissyandé, and Naouel Moha. “Dependabot and Security Pull Requests: Large Empirical Study.” Empirical Software Engineering 29, no. 5 (July 30, 2024): 128. https://doi.org/10.1007/s10664-024-10523-y.
+
+> Rebatchi, Hocine, Tégawendé F. Bissyandé, and Naouel Moha. “Dependabot and Security Pull Requests: Large Empirical Study.” Empirical Software Engineering 29, no. 5 (July 30, 2024): 128. https://doi.org/10.1007/s10664-024-10523-y.
 
 
 ## Execution
