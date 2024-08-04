@@ -18,3 +18,17 @@ The execution of the GitHub-Miner pipeline should go through the following steps
 This pipeline is the work of the Empirical Software Engineering journal paper "_Dependabot and security pull requests: large empirical study_":
 
 > Rebatchi, Hocine, Tégawendé F. Bissyandé, and Naouel Moha. “Dependabot and Security Pull Requests: Large Empirical Study.” Empirical Software Engineering 29, no. 5 (July 30, 2024): 128. https://doi.org/10.1007/s10664-024-10523-y.
+
+
+```
+@article{rebatchi2024dependabot,
+  title={Dependabot and security pull requests: large empirical study},
+  author={Rebatchi, Hocine and Bissyand{\'e}, T{\'e}gawend{\'e} F and Moha, Naouel},
+  journal={Empirical Software Engineering},
+  volume={29},
+  number={5},
+  pages={128},
+  year={2024},
+  publisher={Springer}
+}
+```
